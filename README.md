@@ -1,5 +1,7 @@
 # TasksSPA
 
+Coding task implemented in Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
 
 ## Development server
